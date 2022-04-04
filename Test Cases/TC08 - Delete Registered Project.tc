@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08 - Delete Registered Project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f5c52fe-bf8c-48fb-9a91-4f50b026c785</testCaseGuid>
+   <variable>
+      <defaultValue>'11111'</defaultValue>
+      <description></description>
+      <id>04d9a48c-dca6-488c-869e-bddb3c7eb61b</id>
+      <masked>false</masked>
+      <name>npk</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mantabjiwa'</defaultValue>
+      <description></description>
+      <id>a023fa30-0348-439e-a878-e723e0a024a4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

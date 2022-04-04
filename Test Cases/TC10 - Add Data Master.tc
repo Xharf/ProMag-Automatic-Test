@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10 - Add Data Master</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e2bde0d-03ab-4787-ae1d-bc764527ff84</testCaseGuid>
+   <variable>
+      <defaultValue>'11112'</defaultValue>
+      <description></description>
+      <id>1af9e653-bf24-4518-830d-952cabae66b7</id>
+      <masked>false</masked>
+      <name>npk</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mantabjiwa'</defaultValue>
+      <description></description>
+      <id>9ec1f3f5-26eb-47e3-a55d-c60c591adec9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'MasterPSA'</defaultValue>
+      <description></description>
+      <id>e36a948e-4ed4-4089-81aa-12a14e70cb93</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6f524b41-7416-4c23-99e7-8bc20dd7520b</id>
+      <masked>false</masked>
+      <name>item_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>2f8743af-c5b3-466d-8f58-95945f7b1fe4</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07 - Buat template email rejected project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa577c97-ba50-4e0c-832d-283fd3776d35</testCaseGuid>
+   <variable>
+      <defaultValue>'11111'</defaultValue>
+      <description></description>
+      <id>572bc336-6891-479e-af83-7a475a6ad9a3</id>
+      <masked>false</masked>
+      <name>npk</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mantabjiwa'</defaultValue>
+      <description></description>
+      <id>d245be5f-0f1c-4a42-a9b7-76e7bff5dfb7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>34512922-3456-4d90-8f1c-2955da836d74</id>
+      <masked>false</masked>
+      <name>row</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a5606fe-e9d0-46d5-882e-e191beb0b844</id>
+      <masked>false</masked>
+      <name>p_rname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58b5ef3b-32c0-45ff-8f41-d9d24a567fb9</id>
+      <masked>false</masked>
+      <name>p_id</name>
+   </variable>
+</TestCaseEntity>

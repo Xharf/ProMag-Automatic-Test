@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - Reject Project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b2c67e2-1cb0-444f-b329-b61a1e942aa1</testCaseGuid>
+   <variable>
+      <defaultValue>'11111'</defaultValue>
+      <description></description>
+      <id>c91d58af-53d1-4c08-85d9-3049d976f75f</id>
+      <masked>false</masked>
+      <name>npk</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mantabjiwa'</defaultValue>
+      <description></description>
+      <id>f236312a-7e32-4ffb-b316-77d5a1189a3d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

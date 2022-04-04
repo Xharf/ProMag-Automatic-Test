@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09 - Delete Rejected Project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2929b743-1860-45d6-937d-02db64ce9e7c</testCaseGuid>
+   <variable>
+      <defaultValue>'11111'</defaultValue>
+      <description></description>
+      <id>a04da9cf-001d-4221-8903-0c84350c0a4e</id>
+      <masked>false</masked>
+      <name>npk</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mantabjiwa'</defaultValue>
+      <description></description>
+      <id>57efe3c6-7abb-4417-a1ad-834dfdb4407d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

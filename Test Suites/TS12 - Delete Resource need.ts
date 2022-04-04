@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS12 - Delete Resource need</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>60addbfb-b87f-4c02-bd67-87df4789e90f</testSuiteGuid>
+   <testCaseLink>
+      <guid>9d58a530-d56a-4797-ad9c-287d0fbfdb85</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC12 - Delete Data Master</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>64f31d54-ae02-4e7f-8d11-32d1a912f74a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF02 - Resource need (add)</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>64f31d54-ae02-4e7f-8d11-32d1a912f74a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>npk</value>
+         <variableId>0528df02-2feb-4356-b8c3-12ebbfbaae71</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>64f31d54-ae02-4e7f-8d11-32d1a912f74a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>69bb74fe-cad5-459f-8889-a76ab65bf32a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>64f31d54-ae02-4e7f-8d11-32d1a912f74a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>7d7ed7eb-9c60-44ff-85bb-c5b96aa94cd2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>64f31d54-ae02-4e7f-8d11-32d1a912f74a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>role</value>
+         <variableId>f000fba5-ad13-4058-b159-e9c7518057fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>64f31d54-ae02-4e7f-8d11-32d1a912f74a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>row</value>
+         <variableId>bda212e9-2fe9-4bc8-88ef-ac1aca776205</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

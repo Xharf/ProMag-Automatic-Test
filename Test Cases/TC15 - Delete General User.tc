@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15 - Delete General User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d2e0a73-d48c-43d4-b7a2-1132780d77b4</testCaseGuid>
+   <variable>
+      <defaultValue>'11111'</defaultValue>
+      <description></description>
+      <id>a407f269-3d0a-46a7-b974-ad62555a1e08</id>
+      <masked>false</masked>
+      <name>npk</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mantabjiwa'</defaultValue>
+      <description></description>
+      <id>d2273736-fb5a-478e-ad3f-666af1077a26</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>c9bb9fc1-2f6b-4d1b-8813-bd74622de6f9</id>
+      <masked>false</masked>
+      <name>row</name>
+   </variable>
+</TestCaseEntity>

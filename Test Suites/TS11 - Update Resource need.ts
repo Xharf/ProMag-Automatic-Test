@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS11 - Update Resource need</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1bc59de4-ab94-45c7-8808-3f17e99c0268</testSuiteGuid>
+   <testCaseLink>
+      <guid>99b5b7db-8d6a-498e-aa92-5fec96562f8b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC11 - Update Data Master</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>912688f3-f78e-48a5-ab9f-d47f260a2e5d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF02 - Resource need (add)</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>912688f3-f78e-48a5-ab9f-d47f260a2e5d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>npk</value>
+         <variableId>0528df02-2feb-4356-b8c3-12ebbfbaae71</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>912688f3-f78e-48a5-ab9f-d47f260a2e5d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>69bb74fe-cad5-459f-8889-a76ab65bf32a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c5fb9ead-69b5-4bb7-84f5-c0d4d409c3bb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>912688f3-f78e-48a5-ab9f-d47f260a2e5d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>7d7ed7eb-9c60-44ff-85bb-c5b96aa94cd2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>912688f3-f78e-48a5-ab9f-d47f260a2e5d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>role</value>
+         <variableId>f000fba5-ad13-4058-b159-e9c7518057fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>912688f3-f78e-48a5-ab9f-d47f260a2e5d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>row</value>
+         <variableId>bda212e9-2fe9-4bc8-88ef-ac1aca776205</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

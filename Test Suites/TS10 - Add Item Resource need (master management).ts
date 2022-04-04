@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS10 - Add Item Resource need (master management)</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>62dc0d03-8d1e-4a48-9be3-48e20e3b4a68</testSuiteGuid>
+   <testCaseLink>
+      <guid>1831721c-cb35-4bcb-b69c-9f6afb8f4e54</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC10 - Add Data Master</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d05d46fe-dcc6-4efa-81ab-bb36b2a5eb7f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF02 - Resource need (add)</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>d05d46fe-dcc6-4efa-81ab-bb36b2a5eb7f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>npk</value>
+         <variableId>1af9e653-bf24-4518-830d-952cabae66b7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d05d46fe-dcc6-4efa-81ab-bb36b2a5eb7f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>9ec1f3f5-26eb-47e3-a55d-c60c591adec9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d05d46fe-dcc6-4efa-81ab-bb36b2a5eb7f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>e36a948e-4ed4-4089-81aa-12a14e70cb93</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d05d46fe-dcc6-4efa-81ab-bb36b2a5eb7f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>item_name</value>
+         <variableId>6f524b41-7416-4c23-99e7-8bc20dd7520b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d05d46fe-dcc6-4efa-81ab-bb36b2a5eb7f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>role</value>
+         <variableId>2f8743af-c5b3-466d-8f58-95945f7b1fe4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

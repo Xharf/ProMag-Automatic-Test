@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - Register Project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c8446bf-0de9-464c-a032-d69219557ee6</testCaseGuid>
+   <variable>
+      <defaultValue>'11111'</defaultValue>
+      <description></description>
+      <id>483647a8-c0c9-4c3c-b1d6-5b1c26114314</id>
+      <masked>false</masked>
+      <name>npk</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mantabjiwa'</defaultValue>
+      <description></description>
+      <id>3b4c9d91-21fd-4190-a5c5-8c57a27590c2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

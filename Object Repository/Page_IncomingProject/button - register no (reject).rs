@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button - register no (reject)</name>
+   <tag></tag>
+   <elementGuidId>0bac3053-96e1-470a-8390-1386fc40b394</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-fw.fa-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='wt45_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_wtTableRecords1_ctl03_wt4']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-fw fa-close</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wt45_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_wtTableRecords1_ctl03_wt4&quot;)/span[@class=&quot;fa fa-fw fa-close&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='wt45_OutSystemsUIWeb_wt4_block_wtContent_wtMainContent_wtTableRecords1_ctl03_wt4']/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+   </webElementXpaths>
+</WebElementEntity>

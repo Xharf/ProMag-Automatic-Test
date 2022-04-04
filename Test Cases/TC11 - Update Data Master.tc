@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11 - Update Data Master</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afeb0484-c1ee-4357-9907-cab6cc2daa98</testCaseGuid>
+   <variable>
+      <defaultValue>'11111'</defaultValue>
+      <description></description>
+      <id>0528df02-2feb-4356-b8c3-12ebbfbaae71</id>
+      <masked>false</masked>
+      <name>npk</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mantabjiwa'</defaultValue>
+      <description></description>
+      <id>69bb74fe-cad5-459f-8889-a76ab65bf32a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5fb9ead-69b5-4bb7-84f5-c0d4d409c3bb</id>
+      <masked>false</masked>
+      <name>old_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'MasterPSA'</defaultValue>
+      <description></description>
+      <id>7d7ed7eb-9c60-44ff-85bb-c5b96aa94cd2</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>f000fba5-ad13-4058-b159-e9c7518057fd</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>bda212e9-2fe9-4bc8-88ef-ac1aca776205</id>
+      <masked>false</masked>
+      <name>row</name>
+   </variable>
+</TestCaseEntity>
