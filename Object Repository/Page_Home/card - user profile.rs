@@ -7,15 +7,15 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//div[@id = 'wt22_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent']</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='wt22_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent']</value>
+         <value>id(&quot;wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent&quot;)[count(. | //div[@id = 'wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent']) = count(//div[@id = 'wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent'])]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#wt22_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent</value>
+         <value>#wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -32,7 +32,7 @@
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>wt22_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent</value>
+      <value>wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,25 +49,25 @@
       <value>ProMAG</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;wt22_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent&quot;)</value>
+      <value>id(&quot;wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='wt22_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent']</value>
+      <value>//div[@id='wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='wt22_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5']/div/div/div</value>
+      <value>//span[@id='wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5']/div/div/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,27 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/span/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent' and (text() = 'ProMAG' or . = 'ProMAG')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='wt22_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt17_block_wtContent']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='wt22_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5']/div/div/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

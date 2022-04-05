@@ -6,75 +6,82 @@
    <elementGuidId>551900aa-0f78-4ba9-8ab3-2c456900353e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtFooter_wt10']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//a[contains(@title, 'Logout') and (contains(text(), 'Logout') or contains(., 'Logout'))]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtFooter_wt10</value>
+         <value>#wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtFooter_wt10</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtFooter_wt10']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtFooter_wt10</value>
+      <value>wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtFooter_wt10</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>32</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>contains</matchCondition>
+      <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
       <value>Logout</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:__doPostBack('wt20$OutSystemsUIWeb_wt4$block$wtHeader$wtRight$wt4$OutSystemsUIWeb_wt12$block$wtFooter$wt10','')</value>
+      <value>javascript:__doPostBack('wt26$OutSystemsUIWeb_wt4$block$wtHeader$wtRight$wt5$OutSystemsUIWeb_wt12$block$wtFooter$wt10','')</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>contains</matchCondition>
+      <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Logout</value>
+      <value> Logout</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtFooter_wt10&quot;)</value>
+      <value>id(&quot;wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtFooter_wt10&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtFooter_wt10']</value>
+      <value>//a[@id='wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtFooter_wt10']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtFooter']/div/a</value>
+      <value>//div[@id='wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtFooter']/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +109,48 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Transaction :'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('wt26$OutSystemsUIWeb_wt4$block$wtHeader$wtRight$wt5$OutSystemsUIWeb_wt12$block$wtFooter$wt10','')&quot;)]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtFooter_wt10' and @title = 'Logout' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;wt26$OutSystemsUIWeb_wt4$block$wtHeader$wtRight$wt5$OutSystemsUIWeb_wt12$block$wtFooter$wt10&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = ' Logout' or . = ' Logout')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtFooter_wt10']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtFooter']/div/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Incoming Project :'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
@@ -110,13 +159,6 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, &quot;javascript:__doPostBack('wt20$OutSystemsUIWeb_wt4$block$wtHeader$wtRight$wt4$OutSystemsUIWeb_wt12$block$wtFooter$wt10','')&quot;)]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

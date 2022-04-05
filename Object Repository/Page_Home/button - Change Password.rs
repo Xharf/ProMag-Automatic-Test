@@ -10,43 +10,43 @@
          <value>//a[(contains(text(), 'Change Password') or contains(., 'Change Password'))]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtContent_wt3']/div</value>
+         <key>CSS</key>
+         <value>#wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtContent_wt3 > div</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtContent_wt3 > div</value>
+         <key>XPATH</key>
+         <value>//a[@id='wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtContent_wt3']/div</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>contains</matchCondition>
+      <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Change Password</value>
+      <value> Change Password</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtContent_wt3&quot;)/div[1]</value>
+      <value>id(&quot;wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtContent_wt3&quot;)/div[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtContent_wt3']/div</value>
+      <value>//a[@id='wt26_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt5_OutSystemsUIWeb_wt12_block_wtContent_wt3']/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +82,13 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Change Password' or . = ' Change Password')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='wt20_OutSystemsUIWeb_wt4_block_wtHeader_wtRight_wt4_OutSystemsUIWeb_wt12_block_wtContent_wt3']/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
